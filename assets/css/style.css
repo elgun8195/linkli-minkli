@@ -1,0 +1,60 @@
+header{
+    padding: 0%;
+    
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+
+nav{
+    position: fixed;
+    background-color: rgb(56, 54, 52);
+    width: 100%;
+}
+
+body{
+    height: 3000px;
+}
+li{
+    display: inline-block;
+    padding: 0%;
+    margin: 1%;
+}
+.logo{
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.one{
+    color: white;
+}
+
+.two{
+    color: rgba(223, 235, 234, 0.925);
+
+}
+
+.tre{
+    color: rgb(77,75,75);
+}
+
+
+.top{
+    position: fixed;
+    margin-right: 3%;
+    margin-top: 45%;
+    margin-left: 94%;
+    color: black;
+    font-size: 100%;
+
+}
+
